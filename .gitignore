@@ -1,0 +1,7 @@
+env/
+
+## Se omiten las imagenes para el entrenamiento
+Trainning/p
+Trainning/n
+
+WhiteFace
