@@ -24,6 +24,7 @@ Detección de objetos usando el algoritmo Haar Cascade para detectar un cubo Rub
 
 [seed]: https://github.com/AscCrs/ObjectDetector/blob/main/ImagesTestings/Captura%20de%20pantalla%202023-12-08%20211214.png "Imagen Negativa"
 
+
 ### Ejemplo de objeto detectado con objeto de interferencia
 ![alt text][seed]
 
